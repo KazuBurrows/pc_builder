@@ -1,0 +1,6 @@
+Website to build perfect pc
+	- check part compatability
+	- check game compatability
+	- google cloud to check for prices & stores
+		- then user can select what store to buy from
+		- how will shipping work?
